@@ -1,0 +1,17 @@
+GEM
+  specs:
+    mini_portile2 (2.3.0)
+    nokogiri (1.8.4)
+      mini_portile2 (~> 2.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  nokogiri
+
+RUBY VERSION
+   ruby 2.5.1p57
+
+BUNDLED WITH
+   1.16.2
